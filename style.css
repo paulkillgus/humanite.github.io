@@ -1,0 +1,166 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+body{
+    color: #e5e5e5;
+    margin:0;
+    font-family: Montserrat, sans-serif
+}
+#header{
+    background-color: #000000;
+    height: 150px;
+    line-height: 150px;
+}
+#header-title{
+    display: block;
+    float: left;
+    font-size: 20px;
+    font-weight: bold
+}
+#header-nav{
+    display:block;
+    float: right;
+    margin-top: 0;
+
+}
+#header-nav li {
+    display: inline;
+    padding-left: 20px;
+}
+
+.container1{
+    max-width: 1000px;
+    margin: 0 auto;
+    clear: both
+}
+
+   
+}
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    float: left;
+    text-align: center;
+    min-height: 455px
+}
+#contentindex {
+    background-image: url(michel-angelo-die-erschaffung-des-menschen-detail-1000-teile--puzzle.2245-1.fs.jpg);
+     text-align:center;
+    min-height: 455px;
+}
+}
+#content{
+    text-align:center;
+    min-height: 455px;
+}
+
+
+#container {
+    margin:0;
+    text-align:left;
+    min-height: 455px;
+    
+}
+
+#header a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+#header a:hover{
+    color: #808080
+}
+#footer{
+    background-color: #162121;
+    padding:50px;
+    min-width: 800px;
+    clear: both
+}
+.column{
+    min-width: 300px;
+    display: inline-block;
+    vertical-align: top;
+}
+#footer h4 {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.1em
+}
+#footer p {
+    color: white;
+}
+#footer a {
+    color: aqua;
+    text-decoration: none
+}
+#content a {
+    text-decoration: none;
+    color: black;
+    
+}
+#contentindex a {
+    text-decoration: none;
+    color: black;
+    
+}
+a:hover {
+    color: darkgrey
+}
+#content a:hover {
+    color: darkgrey
+}
+#contentindex a:hover {
+    color: darkgrey
+}
+.post{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+#content{
+    background-color: #777777;
+}
+.about{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 60px 0;
+    vertical-align: middle;
+    min-height: 350px;
+}
+.shop{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 60px 0;
+    vertical-align: middle;
+    min-height: 150px;
+}
+
+.shop-author img {
+    width: 400px;
+    height: 400px;
+    vertical-align: middle;
+  
+}
+.about-author img{
+    width: 150px;
+    height: 150px;
+    vertical-align: middle;
+    border-radius: 75px
+}
+.post-author span{
+    margin-left: 16px;
+}
+.post-date {
+    color:#838383;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+h1, h2, h3, h4 {
+    color: black
+}
+p {
+    line-height: 1.5;
+}
+
+
